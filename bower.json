@@ -1,0 +1,21 @@
+{
+  "name": "tkochi.github.io",
+  "version": "0.0.0",
+  "homepage": "http://tkochi.github.io",
+  "authors": [
+    "Takayoshi Kochi <takayoshi.kochi@gmail.com>"
+  ],
+  "description": "tkochi.github.io",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  }
+}
